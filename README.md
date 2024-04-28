@@ -26,6 +26,3 @@
 - Linkedin Profile: https://www.linkedin.com/in/pranav-jambare/
 
 - Keep Coding! Keep Learning!
-
-- Warm regards,
-- Pranav Jambare
